@@ -1,3 +1,5 @@
+# conda activate jarvis2
+
 from PIL import ImageGrab
 
 def take_screenshot():
